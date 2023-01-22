@@ -1,0 +1,8 @@
+# 文件夹
+
+*/.vscode/*
+*/build/*
+
+# 文件
+*.png
+*.Identifier
